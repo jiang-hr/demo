@@ -4,11 +4,26 @@ import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 
+import MyTable from './MyTable/MyTable';
+import TodoList from './TodoList/TodoList'
+
+import 'antd/dist/antd.css'
+
+// ReactDOM.render(
+//   <React.StrictMode>
+//     <App />
+//   </React.StrictMode>,
+//   document.getElementById('root')
+// );
+
 ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
-  document.getElementById('root')
+  <TodoList></TodoList>,
+  document.getElementById('list')
+);
+
+ReactDOM.render(
+  <MyTable></MyTable>,
+  document.getElementById('table')
 );
 
 // If you want your app to work offline and load faster, you can change
