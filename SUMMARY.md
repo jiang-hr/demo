@@ -13,11 +13,11 @@
 
 * [5. Continuity of multivariate functions](mathematical-analysis-2-1/5.-continuity-of-multivariate-functions.md)
 * [6. Differential calculus of multivariate functions](mathematical-analysis-2-1/6.-differential-calculus-of-multivariate-functions.md)
-* [7.  Multiple integral](mathematical-analysis-2-1/7.-multiple-integral/README.md)
-  * [Triple Integral](mathematical-analysis-2-1/7.-multiple-integral/triple-integral.md)
+* [7.  Multiple integral](mathematical-analysis-2-1/7.-multiple-integral.md)
 * [8. Multivariate functions' surface](mathematical-analysis-2-1/8.-integral/README.md)
   * [1-dimension \(curves\)](mathematical-analysis-2-1/8.-integral/1-dimension-curves.md)
   * [2-dimention \(surfaces\)](mathematical-analysis-2-1/8.-integral/2-dimention-surfaces.md)
+  * [field theory](mathematical-analysis-2-1/8.-integral/field-theory.md)
 * [9. Differential form](mathematical-analysis-2-1/9.-differential-form.md)
 
 ## Mathematical Analysis 3
