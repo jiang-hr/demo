@@ -1,2 +1,2 @@
-# 2-dimention \(surfaces\)
+# Surface integral \(3-dimension\)
 
